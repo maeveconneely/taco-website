@@ -1,0 +1,96 @@
+@font-face {
+  font-family: "BungeeShade";
+  src: url("BungeeShade-Regular.ttf");
+}
+
+.main-div {
+  position: relative;
+}
+
+#taco {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 45px;
+}
+
+.taco-block {
+  position: relative;
+  width: 400px;
+  height: 450px;
+  background-color: #FAFFA6;
+  border-color: #587A00;
+  border-width: 5px;
+}
+
+.words-block {
+  position: absolute;
+  left: 410px;
+  width: 1100px;
+  height: 450px;
+  background-color: #FAFFA6;
+}
+
+#twekB {
+  position: absolute;
+  background-color: #FAFFA6;
+  border-color: #587A00;
+  color: #587A00;
+  border-width: 5px;
+  float: left;
+  width: 300px;
+  height: 70px;
+  top: 330px;
+  left: 45px;
+  font-family: "BungeeShade", fantasy;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+#lick {
+  text-align: center;
+  font-family: "BungeeShade", fantasy;
+  font-weight: bold;
+  font-size: 40px;
+  color: #FF5032;
+}
+
+#eat {
+  position: absolute;
+  left: 470px;
+  top: 100px;
+  text-align: center;
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 20px;
+  color: #FF5032;
+}
+
+.marquee-block {
+  position: absolute;
+  left: 0px;
+  top: 460px;
+  width: 1510px;
+  height: 220px;
+  background-color: #FAFFA6;
+}
+
+#score {
+  position: absolute;
+  left: 535px;
+  top: 200px;
+  font-size: 40px;
+  font-family: "BungeeShade", fantasy;
+  color: #FF5032;
+}
+
+#s {
+  position: absolute;
+  left: 490px;
+  top: 180px;
+  font-size: 30px;
+  font-family: "BungeeShade", fantasy;
+  font-weight: bold;
+  color: #FF5032;
+}
