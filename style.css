@@ -58,6 +58,7 @@
 
 #eat {
   position: absolute;
+  float: left;
   top: 100px;
   font-family: fantasy;
   font-weight: bold;
